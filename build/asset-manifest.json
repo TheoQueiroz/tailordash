@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailordash/static/css/main.c9fc11b4.css",
+    "main.js": "/tailordash/static/js/main.12a1d42f.js",
+    "static/js/453.b0cae8f1.chunk.js": "/tailordash/static/js/453.b0cae8f1.chunk.js",
+    "index.html": "/tailordash/index.html",
+    "main.c9fc11b4.css.map": "/tailordash/static/css/main.c9fc11b4.css.map",
+    "main.12a1d42f.js.map": "/tailordash/static/js/main.12a1d42f.js.map",
+    "453.b0cae8f1.chunk.js.map": "/tailordash/static/js/453.b0cae8f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9fc11b4.css",
+    "static/js/main.12a1d42f.js"
+  ]
+}
